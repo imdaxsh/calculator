@@ -1,9 +1,11 @@
 <h2>Simple Calculator Using HTML, CSS, and JavaScript </h2> 
 <h2>Index</h2>
-    This description contains the following title  
-    <h6> Introduction</h6>
-    <h6> Plan</h6>
-    <h6> Execution</h6> 
+This project description contains the following title  
+<h6>Index</h6>
+<h6>Introduction</h6>
+<h6>Plan</h6>
+<h6>Execution</h6>
+    
 <h2>Introduction</h2>
 
 This calculator can perform basic mathematical operations like addition, subtraction, multiplication, and division.
@@ -133,27 +135,19 @@ Step 1: Create the basic structure of the calculator
  
 These are the CSS programming code with which the basic structure for making this calculator has been designed. It has been converted to a Neumorphism design using its CSS code.
 
-
-
-
-
-
 Step 2: Create a result box for viewing calculations
-Any calculator has a box for viewing calculations. In the same way, a box is made in this calculator. Here all kinds of calculations can be seen beautifully in that box. The following programming codes have been used to create and design this box.
+Any calculator has a box for viewing calculations. In the same way, a box is made in this calculator. Here all kinds of calculations can be seen beautifully in that box. 
 
 
 Step 3: Create the buttons in the calculator
-Many buttons have been used for calculations. The following codes have been used to construct those buttons.
+Many buttons have been used for calculations.
 
  Step 4 : Activate the buttons on the calculator 
 So far we have designed this calculator but it has not been made effective. You must use JavaScript programming code to make it work. 
 Using the following programming codes, I have activated these calculator push buttons, which means that when you press the buttons, the numbers at the top of the screen will appear.
 
-Step 5: Add the following JavaScript code to calculate the inputs
-I have shown above how to activate the numbers. Now I have shown how to calculate those inputs and show the results.
 
-</body>
-</html>
+
 
  
 
