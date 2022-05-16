@@ -1,4 +1,4 @@
-<h2>Simple Calculator Using HTML, CSS, and JavaScript </h2> 
+<h2>Simple Calculator Using HTML, CSS </h2> 
 <h2>Index</h2>
 This project description contains the following title  
 <h6>Index</h6>
